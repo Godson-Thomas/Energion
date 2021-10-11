@@ -5,3 +5,9 @@
 <img src="https://github.com/Godson-Thomas/Energion/blob/master/Energion3.png" width="550"><br><br>
 <img src="https://github.com/Godson-Thomas/Energion/blob/master/Energion4.png" width="550"><br><br>
 <img src="https://github.com/Godson-Thomas/Energion/blob/master/Energion5.png" width="550"><br><br>
+<img src="https://github.com/Godson-Thomas/Energion/blob/master/Energion6.png" width="550"><br><br>
+<img src="https://github.com/Godson-Thomas/Energion/blob/master/Energion7.png" width="550"><br><br>
+<img src="https://github.com/Godson-Thomas/Energion/blob/master/Energion8.png" width="550"><br><br>
+<img src="https://github.com/Godson-Thomas/Energion/blob/master/Energion9.png" width="550"><br><br>
+<img src="https://github.com/Godson-Thomas/Energion/blob/master/Energion10.png" width="550"><br><br>
+
